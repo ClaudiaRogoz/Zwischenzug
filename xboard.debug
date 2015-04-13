@@ -1,0 +1,262 @@
+locale = LC_CTYPE=en_US.UTF-8;LC_NUMERIC=ro_RO.UTF-8;LC_TIME=ro_RO.UTF-8;LC_COLLATE=en_US.UTF-8;LC_MONETARY=ro_RO.UTF-8;LC_MESSAGES=en_US.UTF-8;LC_PAPER=ro_RO.UTF-8;LC_NAME=ro_RO.UTF-8;LC_ADDRESS=ro_RO.UTF-8;LC_TELEPHONE=ro_RO.UTF-8;LC_MEASUREMENT=ro_RO.UTF-8;LC_IDENTIFICATION=ro_RO.UTF-8
+recognized 'normal' (-1) as variant normal
+recognized 'normal' (-1) as variant normal
+recognized 'normal' (-1) as variant normal
+shuffleOpenings = 0
+Requested font set for list -*-helvetica-medium-r-normal--14-*-*-*-*-*-*-*,-misc-fixed-medium-r-normal--14-*-*-*-*-*-*-*,-*-*-*-*-*-*-14-*-*-*-*-*-*-*
+ got list -*-helvetica-medium-r-normal--14-*-*-*-*-*-*-*,-misc-fixed-medium-r-normal--14-*-*-*-*-*-*-*,-*-*-*-*-*-*-14-*-*-*-*-*-*-*, locale en_US.UTF-8
+ got charset -adobe-helvetica-medium-r-normal--14-100-100-100-p-76-iso8859-1
+ got charset -adobe-helvetica-medium-r-normal--14-100-100-100-p-76-iso8859-1
+ got charset -misc-fixed-medium-r-normal--14-130-75-75-c-70-iso8859-2
+ got charset -misc-fixed-medium-r-normal--14-130-75-75-c-70-iso8859-3
+ got charset -misc-fixed-medium-r-normal--14-130-75-75-c-70-iso8859-4
+ got charset -misc-fixed-medium-r-normal--14-130-75-75-c-70-iso8859-5
+ got charset -misc-fixed-medium-r-normal--14-130-75-75-c-70-koi8-r
+ got charset -misc-fixed-medium-r-normal--14-130-75-75-c-70-iso8859-7
+ got charset -misc-fixed-medium-r-normal--14-130-75-75-c-70-iso8859-9
+ got charset -misc-fixed-medium-r-normal--14-130-75-75-c-70-iso8859-13
+ got charset -misc-fixed-medium-r-normal--14-130-75-75-c-70-iso8859-14
+ got charset -misc-fixed-medium-r-normal--14-130-75-75-c-70-iso8859-15
+ got charset -misc-fixed-medium-r-normal--14-130-75-75-c-140-jisx0208.1983-0
+ got charset -daewoo-gothic-medium-r-normal--14-101-100-100-c-0-ksc5601.1987-0
+ got charset -isas-fangsong ti-medium-r-normal--14-101-100-100-c-0-gb2312.1980-0
+ got charset -misc-fixed-medium-r-normal--14-130-75-75-c-70-jisx0201.1976-0
+ got charset -adobe-helvetica-medium-r-normal--14-100-100-100-p-76-iso10646-1
+Requested font set for list -*-helvetica-bold-r-normal--34-*-*-*-*-*-*-*,-misc-fixed-bold-r-normal--34-*-*-*-*-*-*-*,-*-*-*-*-*-*-34-*-*-*-*-*-*-*
+ got list -*-helvetica-bold-r-normal--34-*-*-*-*-*-*-*,-misc-fixed-bold-r-normal--34-*-*-*-*-*-*-*,-*-*-*-*-*-*-34-*-*-*-*-*-*-*, locale en_US.UTF-8
+ got charset -adobe-helvetica-bold-r-normal--34-240-100-100-p-182-iso8859-1
+ got charset -adobe-helvetica-bold-r-normal--34-240-100-100-p-182-iso8859-1
+ got charset -misc-fixed-bold-r-normal--34-246-100-100-c-0-iso8859-2
+ got charset -misc-fixed-bold-r-normal--34-246-100-100-c-0-iso8859-3
+ got charset -misc-fixed-bold-r-normal--34-246-100-100-c-0-iso8859-4
+ got charset -misc-fixed-bold-r-normal--34-246-100-100-c-0-iso8859-5
+ got charset -misc-fixed-medium-r-normal--34-246-100-100-c-0-koi8-r
+ got charset -misc-fixed-bold-r-normal--34-246-100-100-c-0-iso8859-7
+ got charset -misc-fixed-bold-r-normal--34-246-100-100-c-0-iso8859-9
+ got charset -misc-fixed-bold-r-normal--34-246-100-100-c-0-iso8859-13
+ got charset -misc-fixed-bold-r-normal--34-246-100-100-c-0-iso8859-14
+ got charset -misc-fixed-bold-r-normal--34-246-100-100-c-0-iso8859-15
+ got charset -jis-fixed-medium-r-normal--34-246-100-100-c-0-jisx0208.1983-0
+ got charset -daewoo-gothic-medium-r-normal--34-246-100-100-c-0-ksc5601.1987-0
+ got charset -isas-fangsong ti-medium-r-normal--34-246-100-100-c-0-gb2312.1980-0
+ got charset -misc-fixed-medium-r-normal--34-246-100-100-c-0-jisx0201.1976-0
+ got charset -adobe-helvetica-bold-r-normal--34-240-100-100-p-182-iso10646-1
+Requested font set for list -*-helvetica-bold-r-normal--12-*-*-*-*-*-*-*,-misc-fixed-bold-r-normal--12-*-*-*-*-*-*-*,-*-*-*-*-*-*-12-*-*-*-*-*-*-*
+ got list -*-helvetica-bold-r-normal--12-*-*-*-*-*-*-*,-misc-fixed-bold-r-normal--12-*-*-*-*-*-*-*,-*-*-*-*-*-*-12-*-*-*-*-*-*-*, locale en_US.UTF-8
+ got charset -adobe-helvetica-bold-r-normal--12-87-100-100-p-0-iso8859-1
+ got charset -adobe-helvetica-bold-r-normal--12-87-100-100-p-0-iso8859-1
+ got charset -misc-fixed-bold-r-normal--12-87-100-100-c-0-iso8859-2
+ got charset -misc-fixed-bold-r-normal--12-87-100-100-c-0-iso8859-3
+ got charset -misc-fixed-bold-r-normal--12-87-100-100-c-0-iso8859-4
+ got charset -misc-fixed-bold-r-normal--12-87-100-100-c-0-iso8859-5
+ got charset -misc-fixed-medium-r-semicondensed--12-110-75-75-c-60-koi8-r
+ got charset -misc-fixed-bold-r-normal--12-87-100-100-c-0-iso8859-7
+ got charset -misc-fixed-bold-r-normal--12-87-100-100-c-0-iso8859-9
+ got charset -misc-fixed-bold-r-normal--12-87-100-100-c-0-iso8859-13
+ got charset -misc-fixed-bold-r-normal--12-87-100-100-c-0-iso8859-14
+ got charset -misc-fixed-bold-r-normal--12-87-100-100-c-0-iso8859-15
+ got charset -jis-fixed-medium-r-normal--12-87-100-100-c-0-jisx0208.1983-0
+ got charset -daewoo-gothic-medium-r-normal--12-87-100-100-c-0-ksc5601.1987-0
+ got charset -isas-fangsong ti-medium-r-normal--12-87-100-100-c-0-gb2312.1980-0
+ got charset -misc-fixed-medium-r-normal--12-87-100-100-c-0-jisx0201.1976-0
+ got charset -adobe-helvetica-bold-r-normal--12-87-100-100-p-0-iso10646-1
+xboard 4.6.2 + ZugzwangEngine
+Reset(1, 0) from gameMode 0
+recognized 'normal' (-1) as variant normal
+GameEnds(0, (null), 2)
+shuffleOpenings = 0
+StartChildProcess (dir="/home/diana/github/Zwischenzug") /home/diana/github/Zwischenzug/ZugzwangEngine
+607 >first : xboard
+protover 2
+shuffleOpenings = 0
+635 <first : feature myname="Zugzwang"
+635 >first : accepted myname
+644 <first : feature usermove=1
+644 >first : accepted usermove
+644 <first : feature sigint=0
+644 >first : accepted sigint
+644 <first : feature sigterm=0
+644 >first : accepted sigterm
+644 <first : feature done=1
+644 >first : accepted done
+645 >first : new
+random
+645 >first : level 40 5 0
+645 >first : post
+645 >first : hard
+nps: w=-1, b=-1
+nps: w=-1, b=-1
+3831 >first : time 30000
+3831 >first : otim 30000
+book hit = (NULL)
+3831 >first : usermove 3831 >first : g2g4
+3834 <first : move a7a5
+4432 >first : time 29999
+4433 >first : otim 29940
+book hit = (NULL)
+4433 >first : usermove 4433 >first : g4g5
+4437 <first : move a5a4
+5024 >first : time 29999
+5025 >first : otim 29881
+book hit = (NULL)
+5025 >first : usermove 5025 >first : g5g6
+5028 <first : move a4a3
+5629 >first : time 29998
+5629 >first : otim 29821
+book hit = (NULL)
+5629 >first : usermove 5629 >first : g6h7
+5633 <first : move a3b2
+6786 >first : time 29998
+6786 >first : otim 29706
+book hit = (NULL)
+6786 >first : usermove 6786 >first : h7g8q
+7056 <first : move h8g8
+10619 >first : time 29971
+10619 >first : otim 29349
+book hit = (NULL)
+10619 >first : usermove 10619 >first : c1b2
+10624 <first : move b7b5
+12586 >first : time 29970
+12586 >first : otim 29153
+book hit = (NULL)
+12586 >first : usermove 12586 >first : b2c3
+12592 <first : move b5b4
+16716 >first : time 29970
+16716 >first : otim 28741
+book hit = (NULL)
+16717 >first : usermove 16717 >first : c3g7
+16728 <first : move b4b3
+18293 >first : time 29968
+18293 >first : otim 28585
+book hit = (NULL)
+18293 >first : usermove 18293 >first : g7f8
+19484 <first : move g8h8
+22654 >first : time 29849
+22654 >first : otim 28268
+book hit = (NULL)
+22654 >first : usermove 22654 >first : f8e7
+23747 <first : move h8g8
+25464 >first : time 29740
+25464 >first : otim 28096
+book hit = (NULL)
+25464 >first : usermove 25464 >first : e7g5
+26443 <first : move g8h8
+26982 >first : time 29642
+26983 >first : otim 28042
+book hit = (NULL)
+26983 >first : usermove 26983 >first : f2f4
+28511 <first : move h8g8
+29774 >first : time 29489
+29775 >first : otim 27916
+book hit = (NULL)
+29775 >first : usermove 29775 >first : e2e4
+30638 <first : move g8h8
+32567 >first : time 29402
+32568 >first : otim 27723
+book hit = (NULL)
+32568 >first : usermove 32568 >first : f4f5
+34392 <first : move h8g8
+35611 >first : time 29220
+35612 >first : otim 27601
+book hit = (NULL)
+35612 >first : usermove 35612 >first : g5h6
+37222 <first : move g8h8
+38266 >first : time 29059
+38266 >first : otim 27497
+book hit = (NULL)
+38266 >first : usermove 38266 >first : h6g7
+39993 <first : move h8g8
+40891 >first : time 28886
+40891 >first : otim 27407
+book hit = (NULL)
+40891 >first : usermove 40891 >first : g7h8
+43241 <first : move g8h8
+45913 >first : time 28651
+45914 >first : otim 27140
+book hit = (NULL)
+45914 >first : usermove 45914 >first : h2h4
+46784 <first : move h8g8
+48168 >first : time 28564
+48168 >first : otim 27001
+book hit = (NULL)
+48169 >first : usermove 48169 >first : f5f6
+50339 <first : move g8h8
+53239 >first : time 28347
+53239 >first : otim 26711
+book hit = (NULL)
+53239 >first : usermove 53239 >first : e4e5
+54012 <first : move h8g8
+54739 >first : time 28269
+54739 >first : otim 26639
+book hit = (NULL)
+54739 >first : usermove 54739 >first : e5e6
+57614 <first : move g8h8
+58421 >first : time 27982
+58421 >first : otim 26558
+book hit = (NULL)
+58421 >first : usermove 58421 >first : e6f7
+58425 <first : move e8f7
+61690 >first : time 27981
+61690 >first : otim 26232
+book hit = (NULL)
+61690 >first : usermove 61690 >first : d1h5
+61702 <first : move h8h5
+64197 >first : time 27980
+64197 >first : otim 25982
+book hit = (NULL)
+64197 >first : usermove 64197 >first : g1f3
+65143 <first : move d8h8
+67061 >first : time 27886
+67061 >first : otim 25790
+book hit = (NULL)
+67061 >first : usermove 67061 >first : f3g5
+67066 <first : move h5g5
+68879 >first : time 27885
+68880 >first : otim 25609
+book hit = (NULL)
+68880 >first : usermove 68880 >first : h1g1
+72059 <first : move h8g8
+73305 >first : time 27567
+73305 >first : otim 25485
+book hit = (NULL)
+73305 >first : usermove 73305 >first : g1g5
+74593 <first : move g8h8
+75970 >first : time 27438
+75970 >first : otim 25347
+book hit = (NULL)
+75970 >first : usermove 75970 >first : g5h5
+76600 <first : move h8g8
+78050 >first : time 27375
+78050 >first : otim 25202
+book hit = (NULL)
+78050 >first : usermove 78050 >first : h5h8
+79732 <first : move g8h8
+84084 >first : time 27207
+84084 >first : otim 24767
+book hit = (NULL)
+84084 >first : usermove 84084 >first : b1c3
+85127 <first : move h8g8
+86233 >first : time 27103
+86234 >first : otim 24656
+book hit = (NULL)
+86234 >first : usermove 86234 >first : c3d5
+87496 <first : move g8h8
+90629 >first : time 26976
+90629 >first : otim 24343
+book hit = (NULL)
+90629 >first : usermove 90629 >first : d5c7
+92094 <first : move h8g8
+101241 >first : time 26830
+101241 >first : otim 23428
+book hit = (NULL)
+101242 >first : usermove 101242 >first : c7e8
+102453 <first : move g8h8
+105420 >first : time 26709
+105420 >first : otim 23132
+book hit = (NULL)
+105420 >first : usermove 105420 >first : e8g7
+106788 <first : move h8g8
+GameEnds(28, xboard exit, 2)
+109486 >first : result * {xboard exit}
+109487 >first : force
+109487 >first : quit
